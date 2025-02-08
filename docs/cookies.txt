@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+en.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	19-Jan-2025
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	19-Jan-2025
+.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	US:TX:Lubbock:33.51:-101.88:v4
+en.wikipedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+en.wikipedia.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+

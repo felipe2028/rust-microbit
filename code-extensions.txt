@@ -1,0 +1,10 @@
+GitLens
+Rust Flash Snippets
+Rust Syntax
+C/C++
+CodeLLDB
+Dependi
+Even Better TOML
+Rust Doc Viewer
+Rust Mod Generator
+rust-analyzer
